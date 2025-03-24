@@ -1,0 +1,20 @@
+{
+  "name": "jorro/buffer",
+  "description": "Jorro framework Buffer package.",
+  "homepage": "https://github.com/d1vby0/jorro",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "d1vby0"
+    }
+  ],
+  "require": {
+    "php": "^8.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jorro\\Buffer\\": ""
+    }
+  }
+}
